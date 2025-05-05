@@ -1,1 +1,3 @@
 # pacman
+
+Hoping to learn how to program and use sprites by recreating this classic....
